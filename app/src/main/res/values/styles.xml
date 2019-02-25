@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/design_default_color_primary</item>
+        <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NuxTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/NUXcolorPrimary</item>
+        <item name="colorPrimaryDark">@color/NUXcolorPrimaryDark</item>
+        <item name="colorAccent">@color/NUXcolorAccent</item>
+
+    </style>
+    <style name="NuxThemeTranslucentStatus" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="colorPrimary">@color/NUXcolorPrimary</item>
+        <item name="colorPrimaryDark">@color/NUXcolorPrimaryDark</item>
+        <item name="colorAccent">@color/NUXcolorAccent</item>
+
+    </style>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <style name="NuxTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">@color/NUXcolorPrimary</item>
+        <item name="colorPrimary">@color/NUXcolorPrimary</item>
+        <item name="colorPrimaryDark">@color/NUXcolorPrimaryDark</item>
+        <item name="colorAccent">@color/NUXcolorAccent</item>
+
+    </style>
+
+    <style name="NuxThemeTranslucentStatus" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="colorPrimary">@color/NUXcolorPrimary</item>
+        <item name="colorPrimaryDark">@color/NUXcolorPrimaryDark</item>
+        <item name="colorAccent">@color/NUXcolorAccent</item>
+
+    </style>
+
+
+</resources>

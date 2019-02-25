@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e040fb</color>
+    <color name="colorPrimaryDark">#aa00c7</color>
+    <color name="colorAccent">#ff79ff</color>
+
+    <color name="NUXcolorPrimary">#282828</color>
+    <color name="NUXcolorPrimaryDark">#000000</color>
+    <color name="NUXcolorAccent">#505050</color>
+</resources>
